@@ -1,0 +1,7 @@
+0 = Air
+1 = Rock
+2 = Spikes
+3 = ArrowtrapRouterLeft
+4 = ArrowtrapRouterRight
+5 = Entrance
+6 = Exit
